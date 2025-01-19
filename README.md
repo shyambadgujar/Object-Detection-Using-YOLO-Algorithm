@@ -19,3 +19,33 @@
  evaluation, the network architecture of YOLOv8, and the optimization techniques employed
  to enhance detection performance. Furthermore, we evaluate the performance of our
  system through extensive experiments and comparisons with existing methods.</p>
+
+<h1>Project Idea
+</h1>
+ <p>
+ ID identification means to recognize and pull out data from identity documents such as
+  
+ driving licences, passports or ID cards. This increases accuracy and processing speed in
+ handling the same by adopting YOLOv8 algorithm and thus using YOLO (You Only Look
+ Once) algorithm for ID detection. The latest version of the YOLO series is YOLOv8 which is
+ popular for its real-time object detection capabilities. The term ‘YOLO’ originated from ID
+ detection with use of YOLOv8 involves finding and identifying objects particularly IDs
+ among other things in images or videos using a highly developed deep learning model.
+ YOLO stands for You Only Look Once which is an object detection system applying a single
+ neural network to the full image thus making it both fast and efficient. The term ’YOLOv8’
+ comes from blending the English word ’You Only Look At Once’ with 8 that signifies the
+ recent advancement of this model called Yolo. This method involves real time image or
+ frame processing to identify and classify objects with high precision
+ </p>
+
+
+ <h1>Project Outcomes</h1>
+
+ <h3>Training Model</h3>
+ ![image](https://github.com/user-attachments/assets/fa094862-ea49-40b2-9462-18c4961b845c)
+
+ <h3>Tests</h3>
+ ![image](https://github.com/user-attachments/assets/55ed6cb9-0d67-4c1f-8309-0b9be13ab9eb)
+
+
+ 
